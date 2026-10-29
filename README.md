@@ -147,7 +147,3 @@ Embedded C/C++, Arduino firmware development, I2C, UART, GPIO, PWM, IMU interfac
 - Add a structured command protocol with error checking.
 - Introduce adjustable motor speed using PWM.
 - Evaluate transition to an STM32-based controller for more advanced embedded firmware development.
-
-## License
-
-This project can be distributed under the MIT License. Add a `LICENSE` file to the repository if you choose this license.
